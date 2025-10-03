@@ -1,1 +1,1 @@
-# Minimum-Distances-algo
+# Minimum-Distances-algo This program finds the minimum distance between any two equal elements in a list. It keeps track of the last seen index of each number using a dictionary and updates the minimum distance whenever a duplicate is found; if no duplicates exist, it returns `-1`.
